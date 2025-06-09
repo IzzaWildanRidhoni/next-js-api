@@ -2,6 +2,9 @@
 
 Ini adalah proyek [Next.js](https://nextjs.org/) yang dibuat dengan [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) dan menggunakan Prisma sebagai ORM.
 
+## API LINK
+[API LINK](https://.postman.co/workspace/My-Workspace~d7920d57-a8a8-4064-801a-1d805ceeeb4e/collection/9887809-048b9acc-dc2d-40ea-97e0-081e6f8e8d5e?action=share&creator=9887809)
+
 ## Memulai Pengembangan
 
 ### Instalasi Dependensi
